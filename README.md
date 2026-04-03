@@ -58,6 +58,3 @@ The goal is to extract sentiment and emotional patterns from user comments and t
 - Real-time comment analysis pipeline  
 - Machine learning-based emotion classification  
 
----
-
-## 📂 Project Structure
