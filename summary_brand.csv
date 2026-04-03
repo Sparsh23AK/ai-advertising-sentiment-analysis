@@ -1,0 +1,11 @@
+brand,comments,avg_sentiment,pct_positive,pct_negative
+OnePlus India,31,0.3882,61.29,12.9
+Ariel Surf,86,0.3382,59.3,5.81
+Hero MotoCorp,197,0.332,63.45,6.6
+Tata Motors,42,0.2791,50.0,7.14
+Colgate,200,0.2077,44.5,15.5
+Amul India,200,0.1047,21.0,5.0
+HDFC Bank,77,0.0947,41.56,24.68
+Cadbury Dairy Milk,27,0.0786,18.52,3.7
+Samsung India,88,0.0725,26.14,11.36
+Paytm,200,0.0263,21.0,14.5
