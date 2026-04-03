@@ -60,10 +60,7 @@ The goal is to extract sentiment and emotional patterns from user comments and t
 
 ---
 
-
----
-
 ## Author
 **Sparsh Giri**  
-Aspiring Data Analyst | Business Analyst  
+Data Analyst | Business Analyst  
 
