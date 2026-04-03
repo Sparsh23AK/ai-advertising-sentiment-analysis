@@ -56,5 +56,14 @@ The goal is to extract sentiment and emotional patterns from user comments and t
 ## Future Improvements
 - Multilingual sentiment analysis (Hinglish, regional languages)  
 - Real-time comment analysis pipeline  
-- Machine learning-based emotion classification  
+- Machine learning-based emotion classification
+
+---
+
+
+---
+
+## Author
+**Sparsh Giri**  
+Aspiring Data Analyst | Business Analyst  
 
